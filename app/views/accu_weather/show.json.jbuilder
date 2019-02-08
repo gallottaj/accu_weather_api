@@ -1,0 +1,1 @@
+json.message @one_day_forecast.body
